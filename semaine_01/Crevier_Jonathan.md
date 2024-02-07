@@ -7,3 +7,5 @@ J'ai choisis multimédia car c'est un programme qui me semblait intéressant et 
 _______________________________________
 
 Apprendre à partager des expériences vécus et à concevoir de la documentation sur différentes oeuvres observées durant le cours. De plus, explorer de nouveaux univers et découvrir des nouvelles expositions m'intrigue.
+
+
