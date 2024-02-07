@@ -6,4 +6,4 @@ J'ai choisis multimédia car c'est un programme qui me semblait intéressant et 
 **Ce qui m'intrigue du cours**
 _______________________________________
 
-Apprendre à partager des expériences vécu et à concevoir de la documentation sur différentes oeuvres observé durant le cours. De plus, explorer de nouveaux univers et découvrir des expositions m'intrigue.
+Apprendre à partager des expériences vécus et à concevoir de la documentation sur différentes oeuvres observées durant le cours. De plus, explorer de nouveaux univers et découvrir des nouvelles expositions m'intrigue.
