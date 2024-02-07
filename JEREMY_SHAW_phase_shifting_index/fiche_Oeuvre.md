@@ -1,4 +1,4 @@
-## **JEREMY SHAW** | **Phase Shifting Index**
+# **JEREMY SHAW** | **Phase Shifting Index**
 ### **Lieu : Fonderie Darling** ,  rue Ottawa
  - **Type : Temporaire | Intérieur**
  - **Créé en : 2020**
