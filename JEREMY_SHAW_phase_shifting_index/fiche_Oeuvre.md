@@ -2,7 +2,7 @@
 ### **Lieu : Fonderie Darling**
  - **Type : Temporaire | Intérieur**
  - **Créé en : 2020**
- - **DATE de visite : 31 Janvier 2024**
+ - **Date de visite : 31 Janvier 2024**
 ____________________________
 
 ## **Description de l'oeuvre**
