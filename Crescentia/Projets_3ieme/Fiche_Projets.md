@@ -13,8 +13,8 @@ ____________________________
 ## **Mise en espace**
 
 
- ## ** Éléments à la mise en exposition**
+ ## **Éléments à la mise en exposition**
 
 
-## ** Appréciation personnelle **
+## **Appréciation personnelle**
 **Personnellement, je n'est pas particulièrement aimer les oeuvres car ce n'est pas mon genre d'exposition favorite. En effet, je préfère visiter des expositions / installations qui me feront apprendres des choses sur l'histoire.**
