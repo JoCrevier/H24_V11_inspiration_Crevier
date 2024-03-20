@@ -12,9 +12,8 @@ ____________________________
 
  ## **Type d'installation | contemplative et immersive**
 ## **Mise en espace**
-**Les installations ont tous leur espace. 4 Oeuvres se situes dans le grand studio alors qu'une oeuvre se situe dans le petit studio. Les 5 oeuvres ont tous leur petit espace réservé pour eux. 
- En effet, la première oeuvre Caneva Cosmique se situe à l'entrée. l'installation est composée d'une talbe interactive suivis d'un grand écran en face. Les 2 dispositifs sont reliés par des cables afin d'assurer la connection entre ces deux média. 
- À gauche de l'entrée, au centre, on retrouve les 2 prochaines installations : Kigo et Sonalux. Chacun ont leur espace réservé collé au mur laissant donc un passage au milieu du studio pour se déplacer. Pour la dernière oeuvre, Rhizomatique se situe dans le fond de la pièce en face de la première installation, dans le cyclo. Pour ce qui est de la dernière oeuvre, Effet Papillon, elle se situe dans le petit studio et occupe tout l'espace disponible.** 
+**Les installations ont tous leur espace. 4 Oeuvres se situes dans le grand studio alors qu'une oeuvre se situe dans le petit studio. 
+En effet, la première oeuvre Caneva Cosmique se situe à l'entrée et fait face au fond de la pièce. À gauche de l'entrée, au centre, on retrouve les 2 prochaines installations : Kigo et Sonalux. Chacun ont leur espace réservé collé au mur laissant donc un passage au milieu du studio pour se déplacer. Pour la prochaine oeuvre, Rhizomatique se situe dans le fond de la pièce à l'opposer de la première installation, dans le cyclo. Pour ce qui est de la dernière oeuvre, Effet Papillon, elle se situe dans le petit studio et occupe tout l'espace disponible.** 
 
 
  ## **Éléments à la mise en exposition**
