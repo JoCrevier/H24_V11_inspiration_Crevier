@@ -6,6 +6,7 @@
 ____________________________
 
 ## **Description de l'oeuvre**
+**Ce sont tous des installations multimédia immersives et parfois interactives qui feront vivre une expérience au spectateur. Certaines installations, comme mentionné précédemment, sont interactives et peuvent donc être touchées par le spectateur. Cela offre donc une immersion encore plus grande que merveilleuse. 
 
 
 
