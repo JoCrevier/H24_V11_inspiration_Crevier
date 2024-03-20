@@ -10,7 +10,7 @@ ____________________________
 
 
  ## **Type d'installation | contemplative et immersive**
-Mise en espace
+## **Mise en espace**
 
 
  ## ** Éléments à la mise en exposition**
