@@ -10,7 +10,7 @@
 ### **Solanux**
 #### **Réalisé par : Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins**
  - https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
-#### **Installation : L'installation est composé d'un principal composant : un lutrin avec des boutons et des écouteurs. Les boutons permettent d'intéragir avec le fond tandis que les écouteurs permettent d'entendre des sons lorsque la personne intéragit avec les boutons. Toutefois, l'installation possède également une petite station possédant quelques ordinateurs qui permet d'assurer le bon fonctionnement de l'installation.**
+#### **Installation : L'installation est composé de deux principaux composant : un lutrin avec des boutons et des écouteurs et 3 murs entourant la station afin de pouvoir voir les effets visuels obtenu lors de l'intéraction. Les boutons permettent d'intéragir avec le fond tandis que les écouteurs permettent d'entendre des sons lorsque la personne intéragit avec les boutons. Toutefois, l'installation possède également une petite station possédant quelques ordinateurs qui permet d'assurer le bon fonctionnement de l'installation.**
 ### **Rhizomatique**
 #### **Réalisé par : Jolyanne Desjardins, MaÏka Désy, Laurie Houde, Felix Testa Radovanovic**
  - https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
