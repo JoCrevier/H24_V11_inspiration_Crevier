@@ -1,5 +1,5 @@
-Crescentia
-Lieu : Laval , Montmorency , Studio
+# **Crescentia**
+### **Lieu : Laval , Montmorency , Studio**
 Type : Temporaire | Intérieur
 Créé en : 2023 - 2024
 Date de visite : 28 Février - 13 Mars 2024
@@ -7,11 +7,11 @@ Description de l'oeuvre
 
 
 
- ## **Type d'installation | contemplative et immersive **
+ ## **Type d'installation | contemplative et immersive**
 Mise en espace
 
 
- ## ** Éléments à la mise en exposition **
+ ## ** Éléments à la mise en exposition**
 
 
 ## ** Appréciation personnelle **
