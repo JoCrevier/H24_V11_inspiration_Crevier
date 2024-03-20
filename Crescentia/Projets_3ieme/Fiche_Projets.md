@@ -1,5 +1,5 @@
 # **Crescentia**
-### **Lieu : Laval , Montmorency , Studio**
+### **Lieu : Laval , Cégep Montmorency , Studio**
 - **Type : Temporaire | Intérieur**
 - **Créé en : 2023 - 2024**
 - **Date de visite : 28 Février - 13 Mars 2024**
