@@ -9,7 +9,7 @@
  - **Programmation Javascript**
  - **Modélisation 3D**
  - **Animation**
-#### **Technique ou composante technologique utilisé :**
+#### **Technique ou composante technologique utilisé : utilisation du logiciel : logiciel, ToucheDesigner**
 #### **Ressentit : J'ai principalement ressentit du plaisir en regardant les interactions et les effets visuels. En effet, je trouvais cela amusant et intéressant à regarder, les effets visuels étaient agréables à l'oeil.**
 
 __________
@@ -23,7 +23,7 @@ __________
  - **Programmation Javascript**
  - **Modélisation 3D**
  - **Animation**
-#### **Technique ou composante technologique utilisé :**
+#### **Technique ou composante technologique utilisé : utilisation d'une kinect **
 #### **Ressentit : J'ai principalement ressentit du plaisir en regardant les interactions et les effets visuels. En effet, je trouvais cela amusant et intéressant à regarder. les effets visuels étaient agréables à l'oeil.**
 
 __________
@@ -36,8 +36,8 @@ __________
 #### **3 cours indispensables :**
  - **Programmation Javascript**
  - **Audio**
- -
-#### **Technique ou composante technologique utilisé :**
+ - **traitement audiovisuel**
+#### **Technique ou composante technologique utilisé : logiciel, ToucheDesigner**
 #### **Ressentit : Je n'est pas ressentit grand chose en regardant l'oeuvre. En effet, ce genre d'installation ne m'interpelle pas. Je n'est donc rien ressentit et j'était plutot neutre dans mes émotions.**
 
 __________
@@ -45,13 +45,13 @@ __________
 #### **Réalisé par : Jolyanne Desjardins, MaÏka Désy, Laurie Houde, Felix Testa Radovanovic**
  - https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 #### **Installation : L'installation est composé d'un principal composants : une table ressemblant à un lutrin qui permet d'y déposer nos mains afin d'intéragir avec celui-ci et le fond. Toutefois, l'installation possède également un projecteur qui permet de projeter les effets que cela produit lorsque nous mettons nos mains sur le "lutrin". De plus, une petite station possédant quelques ordinateurs est installé pour assurer le bon fonctionnement de l'installation.**
-#### **3 cours indispensables :**
 ![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/1c0006cf-4a4d-4f5f-b658-5fc20a95d3c6)
 
+#### **3 cours indispensables :**
  - **Programmation Javascript**
  - **Audio**
- -
-#### **Technique ou composante technologique utilisé :**
+ - **traitement audiovisuel**
+#### **Technique ou composante technologique utilisé : utilisation du logiciel : ToucheDesigner**
 #### **Ressentit : Je n'est pas ressentit grand chose en regardant l'oeuvre. En effet, ce genre d'installation ne m'interpelle pas. Je n'est donc rien ressentit et j'était plutot neutre dans mes émotions.**
 
 __________
@@ -62,7 +62,7 @@ __________
 ![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/09b97156-b09e-4a40-a7f1-d1a25a1f3617)
 
 #### **3 cours indispensables :**
- - **Programmation Javascript**
+ - **traitement audiovisuel**
  - **Audio**
  - **Modélisation 3D**
 #### **Technique ou composante technologique utilisé :**
