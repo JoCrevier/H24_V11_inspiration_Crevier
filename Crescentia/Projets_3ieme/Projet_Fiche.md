@@ -46,6 +46,8 @@
  - https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 #### **Installation : L'installation est composé d'un principal composants : une table ressemblant à un lutrin qui permet d'y déposer nos mains afin d'intéragir avec celui-ci et le fond. Toutefois, l'installation possède également un projecteur qui permet de projeter les effets que cela produit lorsque nous mettons nos mains sur le "lutrin". De plus, une petite station possédant quelques ordinateurs est installé pour assurer le bon fonctionnement de l'installation.**
 #### **3 cours indispensables :**
+![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/1c0006cf-4a4d-4f5f-b658-5fc20a95d3c6)
+
  - **Programmation Javascript**
  - **Audio**
  -
