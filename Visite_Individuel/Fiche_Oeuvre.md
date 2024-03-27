@@ -14,7 +14,9 @@ ____________________________
 ## **Type d'installation | contemplative et immersive**
 
 ## **Mise en espace**
-**L'exposition se déroule dans 3 grandes salles similaire. Chacune d'entre elle possèdes des vidéos, des images et des oeuvres sur les murs. Au centre de ces pièces, plusieurs objets artisanaux, sculptures et textiles sont exposés dans des boites en verres. Le tout est accompagné d'un éclairage tamisé.**
+**L'exposition se déroule dans 3 grandes salles similaire. Chacune d'entre elle possèdes des vidéos, des images et des oeuvres sur les murs. Au centre de ces pièces, plusieurs objets artisanaux, sculptures et textiles sont exposés dans des boites en verres. Le tout est accompagné d'un éclairage tamisé.** (voir élément si-dessous)
+
+
 ![Image_1](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/93875d40-dfcf-4ff7-84fc-ca24a8970610)
 
 ## **Éléments à la mise en exposition**
