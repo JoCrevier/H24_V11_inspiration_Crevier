@@ -1,5 +1,8 @@
 ## **Le projet que j'ai le plus apprécié est : Canevas Cosmique.**
 
+__________
+## **Description**
+
 ### **Canevas Cosmique**
 #### **Réalisé par : Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau**
  - https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
