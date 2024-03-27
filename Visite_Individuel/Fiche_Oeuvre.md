@@ -9,7 +9,7 @@ ____________________________
 
 **Cette exposition nous force à réfléchir sur la richesse de la culture des peuples autochtones. Les visiteurs sont accueillis par une ambiance envoutante de part les images, les objets et l'éclairage tamisée. Les objets artisanaux, les sculptures ou les textiles reflètent la profonde connexion des communautés autochtones avec la nature, l'esprit et l'histoire. Les visiteurs peuvent également observer et écouter des témoignages de certains autochtones à travers l'exposition. L'exposition offre une occasion unique de mieux comprendre la diversité et la vivalité des cultures autochtones.** 
 
-##### https://macm.org/expositions/jeremy-shaw/
+##### https://www.musee-mccord-stewart.ca/fr/expositions/voix-autochtones-aujourdhui/
 
 ## **Type d'installation | contemplative et immersive**
 
