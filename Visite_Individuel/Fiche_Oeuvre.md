@@ -29,4 +29,4 @@ ____________________________
 
 __________
 ## **Appréciation personnelle**
-**Pour ce qui est de mon expérience personnelle, je n'est pas apprécié l'oeuvre. En effet, ce n'est pas mon genre d'exposition à la base. Malgré être une personne très visuel, je n'est pas apprécié l'oeuvre car ce genre d'installation ne m'interpelle pas et ne m'intéresse pas. Je préfère aller dans des musées ou est présentés des objets liés à un thème et ou je peux apprendre sur quelque chose comme par exemple un musée sur l'Egypte antique ou un musée sur l'aviation. De plus, l'exposition semblait très abstraite pour moi et je suis une personne qui préfère quand les choses sont claires et précises. En sommes plus concraite.**
+**Pour ce qui est de mon expérience personnelle, j'ai relativement apprécié cette exposition. En effet, étant une personne qui aime apprendre. J'ai appris **
