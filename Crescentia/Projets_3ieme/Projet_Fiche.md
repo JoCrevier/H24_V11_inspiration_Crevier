@@ -11,16 +11,22 @@
  - **Animation**
 #### **Technique ou composante technologique utilisé :**
 #### **Ressentit :**
+
+
 ### **Kigo**
 #### **Réalisé par : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion**
  - https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 #### **Installation : L'installation est composé d'un principal composant : une kinect qui permet de capter les mouvements de la personne lorsqu'elle est positionnée devant l'écran. Toutefois, l'installation possède également un projecteur pour l'écran et une petite station possédant quelques ordinateurs qui permet d'assurer le bon fonctionnement de l'installation.**
+![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/6fbbccaf-fb2d-4a98-9971-7da46432bb2f)
+
 #### **3 cours indispensables :**
  - **Programmation Javascript**
  - **Modélisation 3D**
  - **Animation**
 #### **Technique ou composante technologique utilisé :**
 #### **Ressentit :**
+
+
 ### **Solanux**
 #### **Réalisé par : Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins**
  - https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
@@ -31,6 +37,8 @@
  -
 #### **Technique ou composante technologique utilisé :**
 #### **Ressentit :**
+
+
 ### **Rhizomatique**
 #### **Réalisé par : Jolyanne Desjardins, MaÏka Désy, Laurie Houde, Felix Testa Radovanovic**
  - https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
@@ -41,6 +49,8 @@
  -
 #### **Technique ou composante technologique utilisé :**
 #### **Ressentit :**
+
+
 ### **Effet Papillon**
 #### **Réalisé par : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre**
  - https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
