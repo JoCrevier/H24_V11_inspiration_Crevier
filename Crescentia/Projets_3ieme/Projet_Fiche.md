@@ -31,6 +31,8 @@
 #### **Réalisé par : Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins**
  - https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
 #### **Installation : L'installation est composé de deux principaux composants : un lutrin avec des boutons et des écouteurs ainsi que des murs entourant la station afin de pouvoir voir les effets visuels obtenu lors de l'intéraction. Les boutons permettent d'intéragir avec le fond tandis que les écouteurs permettent d'entendre des sons lorsque la personne intéragit avec les boutons. Toutefois, l'installation possède également une petite station possédant quelques ordinateurs qui permet d'assurer le bon fonctionnement de l'installation.**
+![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/399b9f79-eec0-46ea-88dc-e1677e65e4cf)
+
 #### **3 cours indispensables :**
  - **Programmation Javascript**
  - **Audio**
