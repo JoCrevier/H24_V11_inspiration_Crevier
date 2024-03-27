@@ -51,7 +51,7 @@ __________
  - **Programmation Javascript**
  - **Audio**
  - **traitement audiovisuel**
-#### **Technique ou composante technologique utilisé : utilisation du logiciel : ToucheDesigner**
+#### **Technique ou composante technologique utilisé : logiciel, ToucheDesigner**
 #### **Ressentit : Je n'est pas ressentit grand chose en regardant l'oeuvre. En effet, ce genre d'installation ne m'interpelle pas. Je n'est donc rien ressentit et j'était plutot neutre dans mes émotions.**
 
 __________
@@ -65,6 +65,6 @@ __________
  - **traitement audiovisuel**
  - **Audio**
  - **Modélisation 3D**
-#### **Technique ou composante technologique utilisé :**
+#### **Technique ou composante technologique utilisé : logiciel, ToucheDesigner**
 #### **Ressentit : Je n'est pas ressentit grand chose en regardant l'oeuvre. En effet, ce genre d'installation ne m'interpelle pas. Je n'est donc rien ressentit et j'était plutot neutre dans mes émotions.**
 
