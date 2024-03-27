@@ -19,6 +19,8 @@ ____________________________
 
 ## **Éléments à la mise en exposition**
 **Le musée a installé plusieurs accesoires et éléments pour la mise en exposition des oeuvres et objets. En effet, le musée a tout d'abord organiser l'éclairage en fonction du thème et des sentiments voulus. Le musée a également installer des écrans sur certains murs pour permettre au visiteur de regarder et d'écouter certains témoignages d'autochtones. Au centre des pièces, de longue table blanche sont installées pour exposé certains objets, sculptures et textiles tous dans des boites en verre.** (voir éléments si-dessous)
+
+
 ![Image_2](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/77cab6bb-e4f6-47fc-b92e-b7dfc9da80be)
 ![Image_3](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/f4a0939b-ef13-4e64-9040-fe7415ca3b43)
 
