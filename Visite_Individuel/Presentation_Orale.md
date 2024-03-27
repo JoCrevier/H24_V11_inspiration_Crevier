@@ -8,4 +8,8 @@ __________
  - **Créé en : ~ 2010 - 2022**
  - **Date de visite : 9 Mars 2024**
 
+## **Description de l'oeuvre**
+
+**Cette exposition nous force à réfléchir sur la richesse de la culture des peuples autochtones. Les visiteurs sont accueillis par une ambiance envoutante de part les images, les objets et l'éclairage tamisé. Les objets artisanaux, les sculptures ou les textiles reflètent la profonde connexion des communautés autochtones avec la nature, l'esprit et l'histoire. Les visiteurs peuvent également observer et écouter des témoignages de certains autochtones à travers l'exposition. L'exposition offre une occasion unique de mieux comprendre la diversité et la vivalité des cultures autochtones.** 
+
 
