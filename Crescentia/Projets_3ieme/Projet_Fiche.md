@@ -10,7 +10,7 @@
  - **Modélisation 3D**
  - **Animation**
 #### **Technique ou composante technologique utilisé :**
-#### **Ressentit :**
+#### **Ressentit : J'ai principalement ressentit du plaisir en regardant les interactions et les effets visuels. En effet, je trouvais cela amusant et intéressant à regarder, les effets visuels étaient agréables à l'oeil.**
 
 
 ### **Kigo**
@@ -24,7 +24,7 @@
  - **Modélisation 3D**
  - **Animation**
 #### **Technique ou composante technologique utilisé :**
-#### **Ressentit :**
+#### **Ressentit : J'ai principalement ressentit du plaisir en regardant les interactions et les effets visuels. En effet, je trouvais cela amusant et intéressant à regarder. les effets visuels étaient agréables à l'oeil. **
 
 
 ### **Solanux**
@@ -38,7 +38,7 @@
  - **Audio**
  -
 #### **Technique ou composante technologique utilisé :**
-#### **Ressentit :**
+#### **Ressentit : Je n'est pas ressentit grand chose en regardant l'oeuvre. En effet, ce genre d'installation ne m'interpelle pas. Je n'est donc rien ressentit et j'était plutot neutre dans mes émotions.**
 
 
 ### **Rhizomatique**
@@ -52,13 +52,15 @@
  - **Audio**
  -
 #### **Technique ou composante technologique utilisé :**
-#### **Ressentit :**
+#### **Ressentit : Je n'est pas ressentit grand chose en regardant l'oeuvre. En effet, ce genre d'installation ne m'interpelle pas. Je n'est donc rien ressentit et j'était plutot neutre dans mes émotions.**
 
 
 ### **Effet Papillon**
 #### **Réalisé par : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre**
  - https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 #### **Installation : L'installation est composé de plusieurs composants : un poto au centre comportant plusieurs petits écrans afin d'afficher l'animation, un projecteur pour projeter des effets sur les murs de la pièce puis 2 éléments mécaniques qui permettent d'intéragir afin de démarrer l'oeuvre. Toutefois, l'installation possède également une petite station possédant quelques ordinateurs qui permet d'assurer le bon fonctionnement de l'installation.**
+![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/09b97156-b09e-4a40-a7f1-d1a25a1f3617)
+
 #### **3 cours indispensables :**
  - **Programmation Javascript**
  - **Audio**
