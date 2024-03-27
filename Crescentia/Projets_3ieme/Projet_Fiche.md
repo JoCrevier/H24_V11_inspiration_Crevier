@@ -24,7 +24,7 @@ __________
  - **Modélisation 3D**
  - **Animation**
 #### **Technique ou composante technologique utilisé :**
-#### **Ressentit : J'ai principalement ressentit du plaisir en regardant les interactions et les effets visuels. En effet, je trouvais cela amusant et intéressant à regarder. les effets visuels étaient agréables à l'oeil. **
+#### **Ressentit : J'ai principalement ressentit du plaisir en regardant les interactions et les effets visuels. En effet, je trouvais cela amusant et intéressant à regarder. les effets visuels étaient agréables à l'oeil.**
 
 __________
 ### **Solanux**
