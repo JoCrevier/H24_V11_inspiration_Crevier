@@ -12,4 +12,7 @@ __________
 
 **Cette exposition nous force à réfléchir sur la richesse de la culture des peuples autochtones. Les visiteurs sont accueillis par une ambiance envoutante de part les images, les objets et l'éclairage tamisé. Les objets artisanaux, les sculptures ou les textiles reflètent la profonde connexion des communautés autochtones avec la nature, l'esprit et l'histoire. Les visiteurs peuvent également observer et écouter des témoignages de certains autochtones à travers l'exposition. L'exposition offre une occasion unique de mieux comprendre la diversité et la vivalité des cultures autochtones.** 
 
+## **Appréciation personnelle**
+**Pour ce qui est de mon expérience personnelle, j'ai relativement apprécié cette exposition. En effet, étant une personne qui aime apprendre. J'ai appris certaines choses par rapport à leur culture et la manière dont ils se débrouillaient pour créé certains objets commes une des premières lunettes "fumées" le Iggaak. Ces lunettes ont été inventer 250 à 50 ans avant notre ère par les autochtones du nord pour pouvoir voir dehors lorsque le soleil tapait sur la neige. Ces lunettes permettaient donc de ne pas être éblouit par la lumière. C'est donc pour l'aspect d'histoire que j'ai aimé l'exposition.**
+
 
