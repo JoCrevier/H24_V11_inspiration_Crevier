@@ -23,7 +23,7 @@ __________
  - **Programmation Javascript**
  - **Modélisation 3D**
  - **Animation**
-#### **Technique ou composante technologique utilisé : utilisation d'une kinect **
+#### **Technique ou composante technologique utilisé : utilisation d'une kinect**
 #### **Ressentit : J'ai principalement ressentit du plaisir en regardant les interactions et les effets visuels. En effet, je trouvais cela amusant et intéressant à regarder. les effets visuels étaient agréables à l'oeil.**
 
 __________
@@ -66,5 +66,5 @@ __________
  - **Audio**
  - **Modélisation 3D**
 #### **Technique ou composante technologique utilisé :**
-#### **Ressentit :**
+#### **Ressentit : Je n'est pas ressentit grand chose en regardant l'oeuvre. En effet, ce genre d'installation ne m'interpelle pas. Je n'est donc rien ressentit et j'était plutot neutre dans mes émotions.**
 
