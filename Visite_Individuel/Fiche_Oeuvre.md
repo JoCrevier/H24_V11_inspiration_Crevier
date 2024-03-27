@@ -1,6 +1,6 @@
 # **Voix autochtones d'aujourd'hui - Savoir, Trauma, Résilience**
 ### **Lieu : MTL , Musée McCord** ,  rue Sherbrooke
- - **Type : Temporaire | Intérieur**
+ - **Type : Permanente | Intérieur**
  - **Créé en : ~ 2010 - 2022**
  - **Date de visite : 9 Mars 2024**
 ____________________________
