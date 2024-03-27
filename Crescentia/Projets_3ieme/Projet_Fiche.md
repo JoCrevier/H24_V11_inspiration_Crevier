@@ -26,7 +26,7 @@ __________
 #### **Technique ou composante technologique utilisé :**
 #### **Ressentit : J'ai principalement ressentit du plaisir en regardant les interactions et les effets visuels. En effet, je trouvais cela amusant et intéressant à regarder. les effets visuels étaient agréables à l'oeil. **
 
-
+__________
 ### **Solanux**
 #### **Réalisé par : Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins**
  - https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
@@ -40,7 +40,7 @@ __________
 #### **Technique ou composante technologique utilisé :**
 #### **Ressentit : Je n'est pas ressentit grand chose en regardant l'oeuvre. En effet, ce genre d'installation ne m'interpelle pas. Je n'est donc rien ressentit et j'était plutot neutre dans mes émotions.**
 
-
+__________
 ### **Rhizomatique**
 #### **Réalisé par : Jolyanne Desjardins, MaÏka Désy, Laurie Houde, Felix Testa Radovanovic**
  - https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
@@ -54,7 +54,7 @@ __________
 #### **Technique ou composante technologique utilisé :**
 #### **Ressentit : Je n'est pas ressentit grand chose en regardant l'oeuvre. En effet, ce genre d'installation ne m'interpelle pas. Je n'est donc rien ressentit et j'était plutot neutre dans mes émotions.**
 
-
+__________
 ### **Effet Papillon**
 #### **Réalisé par : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre**
  - https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
