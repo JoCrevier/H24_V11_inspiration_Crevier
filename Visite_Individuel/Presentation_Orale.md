@@ -4,7 +4,7 @@ __________
 - ### **Plusieurs aspects seront abordés lors de la présentation. Tout d'abord, les informations principal de l'exposition expliqué en détail. Ensuite, la description du musée et de ses installations. Puis finalement, l'expérience vécue.**
 
 ### **Lieu : MTL , Musée McCord** ,  rue Sherbrooke
- - **Type : Temporaire | Intérieur**
+ - **Type : Permanente | Intérieur**
  - **Créé en : ~ 2010 - 2022**
  - **Date de visite : 9 Mars 2024**
 
