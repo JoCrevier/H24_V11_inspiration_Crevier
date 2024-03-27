@@ -12,7 +12,7 @@
 #### **Technique ou composante technologique utilisé :**
 #### **Ressentit : J'ai principalement ressentit du plaisir en regardant les interactions et les effets visuels. En effet, je trouvais cela amusant et intéressant à regarder, les effets visuels étaient agréables à l'oeil.**
 
-
+__________
 ### **Kigo**
 #### **Réalisé par : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion**
  - https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
