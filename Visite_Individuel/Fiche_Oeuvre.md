@@ -18,7 +18,11 @@ ____________________________
 ![Image_1](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/93875d40-dfcf-4ff7-84fc-ca24a8970610)
 
 ## **Éléments à la mise en exposition**
-**Le musée a installé plusieurs accesoires et éléments pour la mise en exposition des oeuvres et objets. En effet, le musée a tout d'abord organiser l'éclairage en fonction du thème et des sentiments voulus. Le musée a également installer des écrans sur certains murs pour permettre au visiteur de regarder et d'écouter certains témoignages d'autochtones. Au centre des pièces, de longue table blanche sont installées pour exposé certains objets, sculptures et textiles tous dans des boites en verre.** 
+**Le musée a installé plusieurs accesoires et éléments pour la mise en exposition des oeuvres et objets. En effet, le musée a tout d'abord organiser l'éclairage en fonction du thème et des sentiments voulus. Le musée a également installer des écrans sur certains murs pour permettre au visiteur de regarder et d'écouter certains témoignages d'autochtones. Au centre des pièces, de longue table blanche sont installées pour exposé certains objets, sculptures et textiles tous dans des boites en verre.** (voir éléments si-dessous)
+![Image_2](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/77cab6bb-e4f6-47fc-b92e-b7dfc9da80be)
+![Image_3](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/f4a0939b-ef13-4e64-9040-fe7415ca3b43)
 
+
+__________
 ## **Appréciation personnelle**
 **Pour ce qui est de mon expérience personnelle, je n'est pas apprécié l'oeuvre. En effet, ce n'est pas mon genre d'exposition à la base. Malgré être une personne très visuel, je n'est pas apprécié l'oeuvre car ce genre d'installation ne m'interpelle pas et ne m'intéresse pas. Je préfère aller dans des musées ou est présentés des objets liés à un thème et ou je peux apprendre sur quelque chose comme par exemple un musée sur l'Egypte antique ou un musée sur l'aviation. De plus, l'exposition semblait très abstraite pour moi et je suis une personne qui préfère quand les choses sont claires et précises. En sommes plus concraite.**
