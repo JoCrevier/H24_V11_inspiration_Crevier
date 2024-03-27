@@ -1,6 +1,10 @@
 ## **Le projet que j'ai le plus apprécié est : Canevas Cosmique.**
 
 __________
+### ** J'ai choisis ce projet car c'est celui qui m'a le plus interpellé lors de mes visites. C'est également le projet que j'ai le plus aimé visuellement. En effet, je trouvais les effets visuels intéressants, pertinents et divertissants. C'était agréable à l'oeil. De plus, le fait de pouvoir intéragir avec les éléments pour obtenir ces effets rendait le tout beaucoup plus captivant et amusant. La curiosité était de mise puisque chaque objet interactif pouvait offrir un effet visuel unique et propre. Cela incitait donc le visiteur à intéragir avec les objets et donc procurait selon moi du plaisir. D'ailleurs, les effets semblaient pouvoir être combinés ce qui pouvait laisser place à notre créativité. J'ai trouvé cela très original et divertissant.  
+
+
+
 ## **Description**
 
 ### **Canevas Cosmique**
