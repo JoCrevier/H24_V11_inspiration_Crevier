@@ -1,4 +1,5 @@
 # **Conférence du 16 avril 2024** 
+----------
 ## **Présenté par Jade Segueal, registraire**
 - ### **METIER : comme expliquer lors de la conférence, son metier consiste à géré les oeuvres à l'international, geré l'inventaire et tout ce qui touche à la gestion des oeuvres.**
 - ### **THÈMES : Plusieurs thèmes ont été présentés lors de la conférence. Tout d'abord, une description de l'artiste pour qui elle travail, une description et une explication de l'équipe derrière chaques oeuvres, une description du metier de la conférenciaire et finalement une description et une explication de 2 étude de cas d'oeuvre multimédia.**
