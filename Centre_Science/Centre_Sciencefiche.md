@@ -1,15 +1,14 @@
-# **Centre des Sciences** | **Phase Shifting Index**
-### **Lieu : MTL , Fonderie Darling** ,  rue Ottawa
- - **Type : Temporaire | Intérieur**
- - **Créé en : 2020**
- - **Date de visite : 31 Janvier 2024**
+# **Centre des Sciences** | **La Science en grand**
+### **Lieu : MTL , Centre des sciences** ,  rue de la Commune O
+ - **Type : Permanente | Intérieur**
+ - **Date de visite : 10 avril 2024**
 ____________________________
 
 ## **Description de l'oeuvre**
 
-**Vaste installation vidéo immersive à sept canaux, Phase Shifting Index [Index d’états de transition] est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont captées dans les formats de l’époque – allant du film 16 mm au VHS en passant par le Hi-8.** 
+**Cette exposition regroupe plusieurs installations captivantes et amusantes explorant plusieurs sujets fascinants comme la géométrie, la lumière, la mécanique et bien plus. Les installations sont ouvert à tout le monde et très intuitifs pouvant convenir aux enfants, mais aussi aux adultes.** 
 
-##### https://macm.org/expositions/jeremy-shaw/
+##### https//www.centredessciencesdemontreal.com/exposition-permanente/explore
 
 ## **Type d'installation | contemplative et immersive**
 
