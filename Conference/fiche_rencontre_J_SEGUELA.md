@@ -1,11 +1,11 @@
 # **Conférence du 16 avril 2024** 
 
-## **Présenté par Jade Segueal, registraire**
-- ### **METIER : comme expliquer lors de la conférence, son metier consiste à géré les oeuvres à l'international, géré l'inventaire et tout ce qui touche à la gestion des oeuvres.**
-- ### **THÈMES : Plusieurs thèmes ont été présentés lors de la conférence. Tout d'abord, une description de l'artiste pour qui elle travail, une description et une explication de l'équipe derrière chaques oeuvres, une description du metier de la conférenciaire et finalement une description et une explication de 2 étude de cas d'oeuvre multimédia.**
-----------
-## **Appréciation personnel**
-### **La conférence en général m'a plus. Je trouvais qu'elle était bien structurée et bien présentée. Toutefois, certains aspects ne m'ont pas plus.**
-### **Tout d'abord, je trouvais certaines informations peu pertinentes selon moi. En effet, je trouvais par exemple que l'explication sur l'inventaire des oeuvres et la procédure à suivre n'était pas très pertinente et captivante pour les élèves. De plus, étant une personne visuelle, j'aime beaucoup lorsque les présentations PowerPoints ont du détails et de l'originalités. Toutefois, je trouvais qu'il manquait parfois un peu d'originalité et de détail au PowerPoint de la conférenciaire. Cependant toutes les informations étaient présente à la compréhension de la conférence.**
-### **Ensuite, comme mentionné plus haut, j'ai quand même apprécié la conférence en général. En effet, ce que j'ai le plus aimé c'était les études de cas. J'ai particulièrement aimé la deuxième car je trouvais l'explication beaucoup plus captivante et intéressante que la première. De plus, les anecdotes m'ont beaucoup plus passionnées et je trouvais cela intéressant de rajouter des petites histoires à la conférence. Cela permettait de prendre certaines poses d'informations et de se laisser aller parmis les différentes histoires.**
-### **En somme, j'ai aimé la conférence et plus particulièrement les anecdotes que Jade Segueal nous racontaient.**
+## **Lors de la conférence du 16 avril, Jade Seguela nous a montré le studio dans lequel elle travail, expliqué son métier en détail et présenté 2 cas d'études d'oeuvres multimédias qu'elle a fait au cours de sa carrière. Tout d'abord, elle nous a montré le studio et introduit a son patron. En effet, elle travail pour Rafael Lozano-Hemmer. Par la suite, Jade Seguela nous a expliqué la division de l'équipe qui travail pour Rafael ainsi qu'une bref description de chaque rôle. Par la suite, elle nous a expliqué en détail ce qu'elle fait et pourquoi. Elle nous a donné des exemples reliés à son métier pour mieux comprendre ce qu'elle fait. Par après, elle nous a montré 2 cas d'études d'oeuvres qu'elle a fait. Jade Seguela a conclu la conférence avec la dernière étude de cas.**
+
+## **En somme, j'ai relativement aimé la conférence. En effet, j'ai surtout aimé la fin car les 2 cas d'études étaient fort intéressant et captivant et j'ai bien aimé les histoires qu'elle nous a racontées. Le début de la conférence était quant à moi un peu plate et long.**
+
+### **1984x1984**
+![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/2ac57960-6023-4074-b685-7449af3b6d5e)
+
+#### **https://antimodular.com/images.php**
+
