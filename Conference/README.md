@@ -1,1 +1,1 @@
-**Ce dossier contient la fiche d'information et de description de la conférence**
+**Ce dossier contient toutes les informations relatives à la conférence**
