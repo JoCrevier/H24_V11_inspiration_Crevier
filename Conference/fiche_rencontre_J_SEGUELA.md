@@ -4,7 +4,7 @@
 
 ### **En somme, j'ai relativement aimé la conférence. En effet, j'ai surtout aimé la fin car les 2 cas d'études étaient fort intéressant et captivant et j'ai bien aimé les histoires qu'elle nous a racontées. Le début de la conférence était quant à moi un peu plate et long.**
 
-### **1984x1984**
+#### **1984x1984**
 ![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/2ac57960-6023-4074-b685-7449af3b6d5e)
 
 #### **https://antimodular.com/images.php**
