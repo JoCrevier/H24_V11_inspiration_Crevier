@@ -24,6 +24,8 @@ https://www.centredessciencesdemontreal.com/
 **Plusieurs composants technique permettent de faire fonctionner les différentes installations. En effet, il est possible de voir par exemple des écrans tactiles, des appareils qui permet de capter les mouvements, des ventilaeurs, des lumières LED ou des écrans LED etc.**
 
 ![CS_Image_2](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/85926986-2bce-478a-b76d-e82eac2bd10b)
+![CS_Image_3](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/3f526f65-a08d-47be-8122-c0ed4b5d710b)
+
 
 
 
