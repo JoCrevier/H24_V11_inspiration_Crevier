@@ -33,6 +33,8 @@ ____________________________
 ## **Composante Technique**
 **Il n'y a pas beaucoup de composants techniques. En effet, les principaux composants techniques se trouvent au niveau des écrans. Ces écrans permettent simplement d'afficher des vidéos de témoignages d'Autochtones**
 
+![Image_3](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/f4a0939b-ef13-4e64-9040-fe7415ca3b43)
+
 __________
 ## **Appréciation personnelle**
 **Pour ce qui est de mon expérience personnelle, j'ai relativement apprécié cette exposition. En effet, étant une personne qui aime apprendre. J'ai appris certaines choses par rapport à leur culture et la manière dont ils se débrouillaient pour créé certains objets commes une des premières lunettes "fumées" le Iggaak. Ces lunettes ont été inventer 250 à 50 ans avant notre ère par les autochtones du nord pour pouvoir voir dehors lorsque le soleil tapait sur la neige. Ces lunettes permettaient donc de ne pas être éblouit par la lumière. C'est donc pour l'aspect d'histoire que j'ai aimé l'exposition.**
