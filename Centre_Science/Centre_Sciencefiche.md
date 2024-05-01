@@ -7,7 +7,7 @@ ____________________________
 
 ## **Description de l'oeuvre**
 
-**Cette exposition regroupe plusieurs installations captivantes et amusantes explorant plusieurs sujets fascinants comme la géométrie, la lumière, la mécanique et bien plus. Les installations sont ouvert à tout le monde et très intuitifs pouvant convenir aux enfants, mais aussi aux adultes.** 
+**Cette exposition regroupe plusieurs installations captivantes et amusantes explorant plusieurs sujets fascinants comme la géométrie, la lumière, la mécanique et bien plus. Les installations sont ouvertes à tout le monde et sont très intuitifs pouvant convenir aux enfants, mais aussi aux adultes.** 
 
 ##### https://www.centredessciencesdemontreal.com/exposition-permanente/explore
 
