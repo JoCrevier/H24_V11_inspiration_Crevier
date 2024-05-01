@@ -19,7 +19,7 @@ ____________________________
 ![Plan_CS_1](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/c4535292-45f7-48ea-bd57-561c4441af18)
 
 ## **Composant Technique**
-****
+**Plusieurs composants technique permettent de faire fonctionner les différentes installations. En effet, il est possible de voir par exemple des écrans tactiles, des appareils qui permet de capter les mouvements, des ventilaeurs, des lumières LED ou des écrans LED etc.**
 
 ## **Éléments à la mise en exposition**
 **Le centre des sciences de montréal a utilisé plusieurs moyens pour faciliter la mise en exposition. En effet, plusieurs objets comme des écrans, des tables, des séparations etc ont permis de bien mettre en oeuvre les différents dispositifs.** 
