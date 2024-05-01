@@ -13,7 +13,7 @@ ____________________________
 
 ## **Type d'installation | contemplative et immersive**
 
-## **La fonction première des dispositifs utilisés est de montrer les différentes oeuvres à travers l'exposition.**
+## **La fonction première des dispositifs utilisés est de montrer les différentes oeuvres à travers l'exposition et de faire vivre une expérience unique.**
 
 ## **Mise en espace**
 **Les différentes installations sont disposées de manière à permettre une circulation libre entre elles. En effet, chaque dispositif possède son propre espace, avec des indications claires facilitant l'orientation dans la pièce. On peut considérer l'aménagement de l'espace comme une grande pièce comprenant les différentes installations placées librement.**
