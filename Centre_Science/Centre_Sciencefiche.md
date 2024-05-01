@@ -18,6 +18,8 @@ ____________________________
 
 ![Plan_CS_1](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/c4535292-45f7-48ea-bd57-561c4441af18)
 
+## **Composant Technique**
+****
 
 ## **Éléments à la mise en exposition**
 **Le centre des sciences de montréal a utilisé plusieurs moyens pour faciliter la mise en exposition. En effet, plusieurs objets comme des écrans, des tables, des séparations etc ont permis de bien mettre en oeuvre les différents dispositifs.** 
