@@ -14,7 +14,7 @@ ____________________________
 ## **Type d'installation | contemplative et immersive**
 
 ## **Mise en espace**
-**Les différents dispositifs sont installés de manière à pouvoir circuler entre eux librement. En effet, chaque installation possède son espace propre à lui avec des indications clairs permettant de se retrouver facilement dans la pièce. On peu voir la mise en espace comme une grande pièce incluant plusieurs petits espaces (voir image si-dessous)**
+**Les différents dispositifs sont installés de manière à pouvoir circuler entre eux librement. En effet, chaque installation possède son espace à lui avec des indications clairs permettant de se retrouver facilement dans la pièce. On peu voir la mise en espace comme une grande pièce incluant plusieurs petits espaces (voir image si-dessous)**
 
 ![Plan_CS_1](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/c4535292-45f7-48ea-bd57-561c4441af18)
 
