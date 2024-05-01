@@ -2,7 +2,7 @@
 ### **Canevas Cosmique**
 #### **Réalisé par : Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau**
  - https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
-#### **Installation : L'installation est composé de deux principaux composants : une table interactive et un projecteur. Toutefois, l'installation possède également une petite station possédant quelques ordinateurs qui permet d'assurer le bon fonctionnement de l'installation.**
+#### **Installation : L'installation est composé de deux principaux composants : une table interactive et un projecteur. Toutefois, l'installation possède également une petite station possédant quelques ordinateurs qui permettent d'assurer le bon fonctionnement de l'installation.**
 ![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/c9f3b2d0-beb6-448b-bb15-7ed6bbf565ec)
 
 
@@ -17,7 +17,7 @@ __________
 ### **Kigo**
 #### **Réalisé par : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion**
  - https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
-#### **Installation : L'installation est composé d'un principal composant : une kinect qui permet de capter les mouvements de la personne lorsqu'elle est positionnée devant l'écran. Toutefois, l'installation possède également un projecteur pour l'écran et une petite station possédant quelques ordinateurs qui permet d'assurer le bon fonctionnement de l'installation.**
+#### **Installation : L'installation est composé d'un principal composant : une kinect qui permet de capter les mouvements de la personne lorsqu'elle est positionnée devant l'écran. Toutefois, l'installation possède également un projecteur pour l'écran et une petite station possédant quelques ordinateurs qui permettent d'assurer le bon fonctionnement de l'installation.**
 ![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/6fbbccaf-fb2d-4a98-9971-7da46432bb2f)
 
 #### **3 cours indispensables :**
@@ -31,7 +31,7 @@ __________
 ### **Solanux**
 #### **Réalisé par : Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins**
  - https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
-#### **Installation : L'installation est composé de deux principaux composants : un lutrin avec des boutons et des écouteurs ainsi que des murs entourant la station afin de pouvoir voir les effets visuels obtenu lors de l'intéraction. Les boutons permettent d'intéragir avec le fond tandis que les écouteurs permettent d'entendre des sons lorsque la personne intéragit avec les boutons. Toutefois, l'installation possède également une petite station possédant quelques ordinateurs qui permet d'assurer le bon fonctionnement de l'installation.**
+#### **Installation : L'installation est composé de deux principaux composants : un lutrin avec des boutons et des écouteurs ainsi que des murs entourant la station afin de pouvoir voir les effets visuels obtenu lors de l'intéraction. Les boutons permettent d'intéragir avec le fond tandis que les écouteurs permettent d'entendre des sons lorsque la personne intéragit avec les boutons. Toutefois, l'installation possède également une petite station possédant quelques ordinateurs qui permettent d'assurer le bon fonctionnement de l'installation.**
 ![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/399b9f79-eec0-46ea-88dc-e1677e65e4cf)
 
 #### **3 cours indispensables :**
@@ -59,7 +59,7 @@ __________
 ### **Effet Papillon**
 #### **Réalisé par : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre**
  - https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
-#### **Installation : L'installation est composé de plusieurs composants : un poto au centre comportant plusieurs petits écrans afin d'afficher l'animation, un projecteur pour projeter des effets sur les murs de la pièce puis 2 éléments mécaniques qui permettent d'intéragir afin de démarrer l'oeuvre. Toutefois, l'installation possède également une petite station possédant quelques ordinateurs qui permet d'assurer le bon fonctionnement de l'installation.**
+#### **Installation : L'installation est composé de plusieurs composants : un poto au centre comportant plusieurs petits écrans afin d'afficher l'animation, un projecteur pour projeter des effets sur les murs de la pièce puis 2 éléments mécaniques qui permettent d'intéragir afin de démarrer l'oeuvre. Toutefois, l'installation possède également une petite station possédant quelques ordinateurs qui permettent d'assurer le bon fonctionnement de l'installation.**
 ![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/09b97156-b09e-4a40-a7f1-d1a25a1f3617)
 
 #### **3 cours indispensables :**
