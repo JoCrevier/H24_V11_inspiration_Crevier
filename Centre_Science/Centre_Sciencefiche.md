@@ -45,4 +45,5 @@ https://www.centredessciencesdemontreal.com/
 
 
 ## **Appréciation personnelle**
-**J'ai bien apprécié l'exposition. En effet, les installations étaient très captivante et intéressante. De plus, je trouvais les sujets passionnants et amusants.**
+**J'ai beaucoup apprécié mon expérience au Centre des sciences de Montréal. Je l'ai trouvé très amusante et captivante. En effet, les dispositifs étaient très intuitifs et divertissants, et les couleurs rendaient l'atmosphère agréable et attrayante. L'emplacement des installations donnait envie d'essayer chacune d'entre elles.**
+**Personnellement j'ai beaucoup aimé l'exposition et j'ai bien aimé la mise en exposition.**
