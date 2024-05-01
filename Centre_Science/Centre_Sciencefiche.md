@@ -23,7 +23,8 @@ https://www.centredessciencesdemontreal.com/
 ## **Composant Technique**
 **Plusieurs composants technique permettent de faire fonctionner les différentes installations. En effet, il est possible de voir par exemple des écrans tactiles, des appareils qui permet de capter les mouvements, des ventilaeurs, des lumières LED ou des écrans LED etc.**
 
-![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/5c5e2bb4-e7ce-4a05-b371-c46b1ac2894c =250x250)
+![CS_Image_2](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/e5bac7ad-3a4c-4fba-937e-c63a901c8626 | width=100 height=100)
+
 
 
 ## **Éléments à la mise en exposition**
