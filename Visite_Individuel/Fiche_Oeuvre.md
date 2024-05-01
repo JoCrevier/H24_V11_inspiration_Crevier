@@ -34,6 +34,7 @@ ____________________________
 **Il n'y a pas beaucoup de composants techniques. En effet, les principaux composants techniques se trouvent au niveau des écrans. Ces écrans permettent simplement d'afficher des vidéos de témoignages d'Autochtones**
 
 ![Image_3](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/f4a0939b-ef13-4e64-9040-fe7415ca3b43)
+![Image_4](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/91db1c0a-ddb4-4bbb-822e-e7923fb17bce)
 
 __________
 ## **Appréciation personnelle**
