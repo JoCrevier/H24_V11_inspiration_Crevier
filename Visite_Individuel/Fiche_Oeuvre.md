@@ -15,6 +15,8 @@ ____________________________
 
 ## **Type d'installation | contemplative et immersive**
 
+## **La fonction première des dispositifs utilisés est de montrer les différentes oeuvres à travers l'exposition.**
+
 ## **Mise en espace**
 **L'exposition se déroule dans 3 grandes salles similaire. Chacune d'entre elle possèdes des vidéos, des images et des oeuvres sur les murs. Au centre de ces pièces, plusieurs objets artisanaux, sculptures et textiles sont exposés dans des boites en verres. Le tout est accompagné d'un éclairage tamisé.** (voir élément si-dessous)
 
