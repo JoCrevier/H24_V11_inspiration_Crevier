@@ -40,9 +40,10 @@ https://www.centredessciencesdemontreal.com/
 
 
 ## **Éléments à la mise en exposition**
-**Le centre des sciences de montréal a utilisé plusieurs moyens pour faciliter la mise en exposition. En effet, plusieurs objets comme des écrans, des tables, des séparations etc ont permis de bien mettre en oeuvre les différents dispositifs.** 
+**Le centre des sciences de montréal a utilisé plusieurs moyens pour faciliter la mise en exposition. En effet, plusieurs objets comme des écrans, des tables, des séparations murales etc ont permis de bien mettre en oeuvre les différents dispositifs.** 
 
 ![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/6417d3a3-21a6-4808-9088-43fb432e869e)
+![CS_Image_8](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/4f50ea27-7e01-4fb7-b611-9db3a1869d7c)
 
 https://www.centredessciencesdemontreal.com/
 
