@@ -5,7 +5,8 @@
  - **En collaboration avec : Ubisoft / Prath And Whitney**
 ____________________________
 
-![CS_image_1](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/26dc5d87-06a8-4c57-977a-bed668ada81c)
+![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/d5f771be-bbdb-41d2-a6ed-ae5ab025cc6b)
+
 
 ## **Description de l'oeuvre**
 
