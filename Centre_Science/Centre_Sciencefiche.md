@@ -26,7 +26,7 @@ https://int.design/fr/projets/explore-la-science-en-grand/
 ![Plan_CS_1](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/c4535292-45f7-48ea-bd57-561c4441af18)
 
 ## **Composant Technique**
-**Plusieurs composants techniques permettent de faire fonctionner les différentes installations. En effet, il est possible de voir par exemple des écrans tactiles, des appareils permettant de capter les mouvements, des ventilateurs, des lumières LED ou des écrans LED, etc.**
+**Plusieurs composants techniques permettent de faire fonctionner les différentes installations. En effet, il est possible de voir par exemple des écrans tactiles, des appareils permettant de capter les mouvements, des ventilateurs, des lumières, des lumières LED ou des écrans LED, etc.**
 
 ![CS_Image_2](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/85926986-2bce-478a-b76d-e82eac2bd10b)
 ![CS_Image_3](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/3f526f65-a08d-47be-8122-c0ed4b5d710b)
