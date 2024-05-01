@@ -18,6 +18,7 @@ ____________________________
 
 ![CS_Image_4](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/164bcabc-d0c0-4c6f-a4e9-91500640165d)
 ![CS_Image_5](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/4e7d8555-9687-4688-a290-da492b6839a9)
+![CS_Image_6](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/1cf18515-787a-4978-ab53-031032c9894d)
 
 https://int.design/fr/projets/explore-la-science-en-grand/
 
