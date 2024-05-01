@@ -2,6 +2,7 @@
 ### **Lieu : MTL , Centre des sciences** ,  rue de la Commune O
  - **Type : Permanente | Intérieur**
  - **Date de visite : 10 avril 2024**
+ - **En collaboration avec : Ubisoft / Prath And Whitney**
 ____________________________
 
 ## **Description de l'oeuvre**
