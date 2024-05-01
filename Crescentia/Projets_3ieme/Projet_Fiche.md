@@ -17,7 +17,7 @@ __________
 ### **Kigo**
 #### **Réalisé par : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion**
  - https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
-#### **Installation : L'installation est composé d'un principal composant : une kinect qui permet de capter les mouvements de la personne lorsqu'elle est positionnée devant l'écran. Toutefois, l'installation possède également un projecteur pour l'écran et une petite station possédant quelques ordinateurs qui permettent d'assurer le bon fonctionnement de l'installation.**
+#### **L'installation est composée d'un principal composant : une Kinect qui permet de capturer les mouvements de la personne lorsqu'elle est positionnée devant l'écran. Toutefois, l'installation possède également un projecteur pour l'écran et une petite station équipée de quelques ordinateurs qui assurent le bon fonctionnement de l'installation**
 ![image](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/6fbbccaf-fb2d-4a98-9971-7da46432bb2f)
 
 #### **3 cours indispensables :**
