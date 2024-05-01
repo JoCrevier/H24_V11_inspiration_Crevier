@@ -3,6 +3,8 @@
  - **Type : Permanente | Intérieur**
  - **Créé en : ~ 2010 - 2022**
  - **Date de visite : 9 Mars 2024**
+ - **Firme : organisme autochtone, La Boite Rouge Vif**
+ - **Commissaire de l'exposition : Elisabeth Kaine**
 ____________________________
 
 ## **Description de l'oeuvre**
