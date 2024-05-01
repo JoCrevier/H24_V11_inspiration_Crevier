@@ -14,7 +14,13 @@ ____________________________
 ## **Type d'installation | contemplative et immersive**
 
 ## **Mise en espace**
-**Les différents dispositifs sont installés de manière à pouvoir circuler entre eux librement. En effet, chaque installation possède son propre espace avec des indications claires permettant de se retrouver facilement dans la pièce. On peut voir la mise en espace comme une grande pièce incluant plusieurs petits espaces. (voir image si-dessous)**
+**Les différents dispositifs sont installés de manière à pouvoir circuler entre eux librement. En effet, chaque installation possède son propre espace avec des indications claires permettant de se retrouver facilement dans la pièce. On peut voir la mise en espace comme une grande pièce incluant les différentes installations placé librement dans la pièce. (voir image si-dessous)**
+
+![CS_Image_4](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/164bcabc-d0c0-4c6f-a4e9-91500640165d)
+![CS_Image_5](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/4e7d8555-9687-4688-a290-da492b6839a9)
+
+https://int.design/fr/projets/explore-la-science-en-grand/
+
 
 ![Plan_CS_1](https://github.com/JoCrevier/H24_V11_inspiration_Crevier/assets/112189750/c4535292-45f7-48ea-bd57-561c4441af18)
 
